@@ -2,6 +2,10 @@
 
 **TODO: Add description**
 
+* iex -S mix
+* {:ok, _} = Plug.Adapters.Cowboy.http Helloplug, []
+
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
